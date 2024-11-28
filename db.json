@@ -1,0 +1,186 @@
+{
+    "shops": [
+      {
+        "id": 1,
+        "name": "Naivas Supermarket - Moi Avenue",
+        "description": "One of the leading supermarkets in Nairobi, offering fresh groceries and household essentials.",
+        "logo": "https://via.placeholder.com/150",
+        "products": [1, 2, 3, 4, 5]
+      },
+
+      {
+        "id": 2,
+        "name": "Quickmart - Kilimani",
+        "description": "Your go-to grocery store for fresh produce, baked goods, and daily essentials.",
+        "logo": "https://via.placeholder.com/150",
+        "products": [6, 7, 8, 9, 10]
+      },
+
+      {
+        "id": 3,
+        "name": "Carrefour - The Hub Karen",
+        "description": "Wide range of local and international grocery products under one roof.",
+        "logo": "https://via.placeholder.com/150",
+        "products": [11, 12, 13, 14, 15]
+      }
+    ],
+
+
+    "products": [
+      {
+        "id": 1,
+        "shopId": 1,
+        "name": "Fresh Sukuma Wiki (1 Bunch)",
+        "price": 30,
+        "stockLevel": 150,
+        "description": "Locally sourced sukuma wiki, fresh and ready to cook.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 2,
+        "shopId": 1,
+        "name": "Milk (500ml - Brookside)",
+        "price": 55,
+        "stockLevel": 200,
+        "description": "Fresh pasteurized milk from Brookside Dairy.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 3,
+        "shopId": 1,
+        "name": "Waragi Bananas (1 Kg)",
+        "price": 70,
+        "stockLevel": 100,
+        "description": "Sweet and ripe waragi bananas sourced from Meru.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 4,
+        "shopId": 1,
+        "name": "Jogoo Maize Flour (2 Kg)",
+        "price": 180,
+        "stockLevel": 120,
+        "description": "High-quality maize flour perfect for ugali.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 5,
+        "shopId": 1,
+        "name": "Royco Mchuzi Mix (200g)",
+        "price": 80,
+        "stockLevel": 80,
+        "description": "Adds rich flavor to your stews and soups.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 6,
+        "shopId": 2,
+        "name": "Nyama Choma Spices (100g)",
+        "price": 100,
+        "stockLevel": 60,
+        "description": "Authentic blend of spices for perfect nyama choma.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 7,
+        "shopId": 2,
+        "name": "Fresh Avocado (1 Piece)",
+        "price": 50,
+        "stockLevel": 90,
+        "description": "Creamy avocados perfect for salads or guacamole.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 8,
+        "shopId": 2,
+        "name": "Fresh Tilapia (1 Kg)",
+        "price": 600,
+        "stockLevel": 30,
+        "description": "Fresh tilapia straight from Lake Victoria.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 9,
+        "shopId": 2,
+        "name": "Tropical Juice (1 Litre)",
+        "price": 150,
+        "stockLevel": 50,
+        "description": "Refreshing tropical fruit juice blend.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 10,
+        "shopId": 2,
+        "name": "Brown Bread (800g - Supa Loaf)",
+        "price": 70,
+        "stockLevel": 70,
+        "description": "Soft and nutritious wholemeal bread.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 11,
+        "shopId": 3,
+        "name": "Blueband Margarine (1 Kg)",
+        "price": 500,
+        "stockLevel": 40,
+        "description": "Perfect for spreading and cooking.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 12,
+        "shopId": 3,
+        "name": "Cabbage (1 Head)",
+        "price": 50,
+        "stockLevel": 100,
+        "description": "Fresh, crunchy cabbage perfect for coleslaw or stir fry.",
+        "image": "https://via.placeholder.com/150"
+      },
+
+      {
+        "id": 13,
+        "shopId": 3,
+        "name": "Indomie Noodles (5 Pack)",
+        "price": 200,
+        "stockLevel": 150,
+        "description": "Quick and easy-to-prepare instant noodles.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 14,
+        "shopId": 3,
+        "name": "White Eggs (1 Tray - 30 Pcs)",
+        "price": 350,
+        "stockLevel": 90,
+        "description": "Fresh farm eggs rich in protein.",
+        "image": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 15,
+        "shopId": 3,
+        "name": "Soko Wheat Flour (2 Kg)",
+        "price": 160,
+        "stockLevel": 80,
+        "description": "Premium flour for chapati and mandazi.",
+        "image": "https://via.placeholder.com/150"
+      }
+    ],
+    
+    "metrics": {
+      "totalShops": 3,
+      "totalProducts": 15,
+      "totalStockValue": 18500,
+      "totalStockLevel": 1430
+    }
+  }
+  
